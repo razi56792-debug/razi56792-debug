@@ -1,48 +1,43 @@
-# 👋 Hello, I'm Razi
+🚀 Razi | Developer in Progress
 
-🎮 Beginner Roblox Developer  
-💻 Interested in programming, game development, and technology.  
-🚀 Currently learning and building small projects to improve my skills.
+Hi there! 👋
+I'm Razi, a beginner developer who loves learning about programming and game development.
 
----
-
-## 🧑‍💻 About Me
-- 🎮 I like creating games and systems in **Roblox Studio**
-- 📚 Learning programming step by step
-- 💡 Love exploring new technology
-- 🚀 My goal is to become a great developer
+🎮 I enjoy building games and experimenting with scripts.
+💡 I believe learning happens step by step through building projects.
 
 ---
 
-## ⚙️ Programming Languages
+💻 Programming Languages
+
 - Lua (Roblox scripting)
-- HTML
-- CSS
-- JavaScript (basic)
-- Python (basic)
+- HTML5
+- CSS3
+- JavaScript (Basic)
+- Python (Learning)
 
 ---
 
-## 🛠 Tools & Platforms
+🛠 Tools I Use
+
 - Roblox Studio
 - Git & GitHub
 - Visual Studio Code
 
 ---
 
-## 📚 Currently Learning
+📚 Currently Learning
+
+- Roblox game systems
 - Advanced Lua scripting
-- Game mechanics
-- Game systems
-- Better coding practices
+- Game design basics
 
 ---
 
-## 🚀 Goals
+🎯 My Goals
+
 - Create fun Roblox games
 - Improve programming skills
-- Build useful projects
+- Build useful and creative projects
 
----
-
-⭐ *“Every expert was once a beginner.”*
+✨ Keep learning. Keep building.
