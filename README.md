@@ -14,6 +14,7 @@ I enjoy learning programming and improving my coding skills step by step by crea
 - 🧠 Exploring different programming languages
 - 🚀 Building projects to improve my experience
 
+---
 💻 My Main Editor
 
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode)
