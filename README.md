@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Razi Haidar]
+# 👋 Hi, I'm Razi Haidar
 
 **Senior Full-Stack Developer & Software Engineer** dengan 5+ tahun pengalaman dalam membangun sistem yang skalabel, aman, dan berperforma tinggi.
 
