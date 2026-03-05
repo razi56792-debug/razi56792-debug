@@ -1,4 +1,4 @@
-🚀 Razi | Developer in Progress
+# 🚀 Razi | Developer in Progress
 
 Hi there! 👋
 I'm Razi, a beginner developer who loves learning about programming and game development.
