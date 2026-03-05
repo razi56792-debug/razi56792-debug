@@ -34,9 +34,11 @@ I enjoy learning programming and improving my coding skills step by step by crea
 
 🛠 Tools
 
-"Git" (https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-"GitHub" (https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-"VSCode" (https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+## 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
