@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Razi Haidar
 
-**Senior Full-Stack Developer & Software Engineer** dengan 5+ tahun pengalaman dalam membangun sistem yang skalabel, aman, dan berperforma tinggi.
+**Beginner Developer & Software Engineer** dengan 5+ tahun pengalaman dalam membangun sistem yang skalabel, aman, dan berperforma tinggi.
 
 Spesialisasi dalam **cloud-native architecture, microservices, AI/ML integration,** dan **security-focused engineering**.
 
@@ -39,14 +39,6 @@ Terbuka untuk kolaborasi pada proyek **open-source, freelance, startup,** dan **
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-### Data & Cloud
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
